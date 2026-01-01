@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             Text(
-              'Version 2 app Patch  is here– Hello Play Store',
+              'Version 7  app second Patch  with CI/CD is here– Hello Play Store',
               style: TextStyle(fontSize: 24),
             ),
             Text(
